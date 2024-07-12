@@ -3,7 +3,7 @@
 This project is a tribute page dedicated to Dr. A.P.J. Abdul Kalam, one of India's most respected scientists and former President. The page provides a brief overview of his life, achievements, and contributions to science and education.
 
 # Tools and Technologies Used
-1.HTML5: For structuring the content of the webpage.
+1. HTML5: For structuring the content of the webpage.
 2. CSS3: For styling the webpage and making it visually appealing.
 3. JavaScript: For adding interactive elements to the page.
 4. Bootstrap: For responsive design and layout.
